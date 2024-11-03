@@ -45,7 +45,7 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: https://clestonv.github.io/robot-dojo/report.html
+      url: https://iza975.github.io/robot-dojo/report.html
 
     steps:
       - name: Setup Pages
